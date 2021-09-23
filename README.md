@@ -1,2 +1,2 @@
-# express-server-boilerplate
+# express-backend-boilerplate
 REST API boilerplate
